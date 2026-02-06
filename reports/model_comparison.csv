@@ -1,0 +1,5 @@
+,best_params,best_score,accuracy,roc_auc,f1_score
+Gradient Boosting,"{'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__n_estimators': 100}",0.8576938007906183,0.7565649396735273,0.8468392363533028,0.6259541984732825
+Logistic Regression,"{'classifier__C': 0.1, 'classifier__penalty': 'l2'}",0.8553979992502174,0.7501774308019872,0.8465873569454132,0.627906976744186
+Random Forest,"{'classifier__max_depth': 10, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 200}",0.8534453387600254,0.758694109297374,0.8455488387713452,0.6238938053097345
+SVM,"{'classifier__C': 0.1, 'classifier__kernel': 'linear'}",0.8479706542345549,0.7054648687012065,0.8383567129091426,0.592737978410206

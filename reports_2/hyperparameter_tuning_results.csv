@@ -1,0 +1,2 @@
+Model,Best Params,Accuracy,Precision,Recall,F1-Score,ROC-AUC,Version
+Gradient Boosting (Tuned),"{'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__min_samples_split': 2, 'classifier__n_estimators': 100}",0.7565649396735273,0.5285451197053407,0.767379679144385,0.6259541984732825,0.8468392363533028,Tuned

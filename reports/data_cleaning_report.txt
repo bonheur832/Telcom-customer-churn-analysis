@@ -1,0 +1,11 @@
+timestamp: 2026-02-06 09:53:28
+original_records: 7043
+original_columns: 33
+cleaned_records: 7043
+cleaned_columns: 29
+missing_values_after: 5185
+duplicates_after: 0
+data_types: {CategoricalDtype(categories=['No', 'Yes'], ordered=False, categories_dtype=str): np.int64(6), CategoricalDtype(categories=['No', 'No internet service', 'Yes'], ordered=False, categories_dtype=str): np.int64(6), <StringDtype(storage='python', na_value=nan)>: np.int64(4), dtype('int64'): np.int64(4), dtype('float64'): np.int64(3), CategoricalDtype(categories=['Female', 'Male'], ordered=False, categories_dtype=str): np.int64(1), CategoricalDtype(categories=['No', 'No phone service', 'Yes'], ordered=False, categories_dtype=str): np.int64(1), CategoricalDtype(categories=['DSL', 'Fiber optic', 'No'], ordered=False, categories_dtype=str): np.int64(1), CategoricalDtype(categories=['Month-to-month', 'One year', 'Two year'], ordered=False, categories_dtype=str): np.int64(1), CategoricalDtype(categories=['Bank transfer (automatic)', 'Credit card (automatic)',
+                  'Electronic check', 'Mailed check'],
+, ordered=False, categories_dtype=str): np.int64(1), CategoricalDtype(categories=['0-1yr', '1-2yr', '2-3yr', '3-4yr', '4-5yr', '5-6yr'], ordered=True, categories_dtype=str): np.int64(1)}
+columns_removed: ['Latitude', 'Country', 'Zip Code', 'Longitude', 'Lat Long', 'Count']

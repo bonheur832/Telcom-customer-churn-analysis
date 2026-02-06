@@ -1,0 +1,33 @@
+
+DATA EXPLORATION INSIGHTS
+==========================
+
+1. DATASET SIZE:
+   - Total Records: 7,043
+   - Total Features: 33
+   - Memory Usage: 10.71 MB
+
+2. DATA QUALITY:
+   - Missing Values: 5174 total missing values
+   - Duplicate Records: 0 (0.00%)
+   - Columns with Missing Values: 1
+
+3. TARGET VARIABLE:
+   - Churn Rate: 26.54% (if 'Churn Value' exists)
+   - Churn-related columns: ['Churn Label', 'Churn Value', 'Churn Score', 'Churn Reason']
+
+4. DATA TYPES:
+   - Numerical Columns: 9
+   - Categorical Columns: 24
+   - Potential Data Type Issues: 1 columns
+
+5. RECOMMENDATIONS:
+   - Investigate columns with many unique values for potential dimensionality reduction
+   - Check data type conversions needed (e.g., 'Total Charges' might need to be numeric)
+   - Analyze the distribution of key features before modeling
+
+Next Steps:
+1. Perform detailed EDA visualization in the next notebook
+2. Clean and preprocess the data
+3. Engineer new features
+4. Build predictive models

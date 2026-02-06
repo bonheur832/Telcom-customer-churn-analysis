@@ -1,0 +1,8 @@
+{
+    "model_type": "GradientBoostingClassifier",
+    "training_date": "2026-02-06 09:54:54",
+    "feature_count": 20,
+    "train_samples": 5634,
+    "test_samples": 1409,
+    "churn_rate": 0.2653698707936959
+}

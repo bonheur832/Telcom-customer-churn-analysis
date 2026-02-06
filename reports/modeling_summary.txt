@@ -1,0 +1,39 @@
+
+        CHURN PREDICTION MODELING REPORT
+        =================================
+
+        Date: 2026-02-06 09:54:54
+
+        1. DATASET OVERVIEW:
+           - Total samples: 7043
+           - Features: 20
+           - Churn rate: 26.54%
+           - Non-churn: 5174
+           - Churn: 1869
+
+        2. DATA SPLIT:
+           - Training set: 5634 samples (80.0%)
+           - Test set: 1409 samples (20.0%)
+
+        3. BEST MODEL:
+           - Model type: GradientBoostingClassifier
+           - Best parameters: {'ccp_alpha': 0.0, 'criterion': 'friedman_mse', 'init': None, 'learning_rate': 0.1, 'loss': 'log_loss', 'max_depth': 3, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 100, 'n_iter_no_change': None, 'random_state': 42, 'subsample': 1.0, 'tol': 0.0001, 'validation_fraction': 0.1, 'verbose': 0, 'warm_start': False}
+
+        4. MODEL PERFORMANCE ON TEST SET:
+        
+           - Accuracy: 0.7566
+           - ROC-AUC: 0.8468
+           - F1-Score: 0.6260
+
+        5. BUSINESS IMPLICATIONS:
+           - Based on the model, key drivers of churn have been identified
+           - Feature importance plot shows the most influential factors
+           - Recommendations for customer retention strategies can be derived
+
+        6. FILES GENERATED:
+           - Best model: models/best_churn_model.pkl
+           - Model metadata: models/model_metadata.json
+           - Model comparison: reports/model_comparison.csv
+           - Feature importance: reports/feature_importance_detailed.csv
+           - Visualizations: Various .png files in reports/ folder
+        

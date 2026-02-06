@@ -1,0 +1,39 @@
+{
+    "model_name": "Logistic Regression",
+    "model_type": "LogisticRegression",
+    "training_date": "2026-02-06 16:39:44",
+    "performance_metrics": {
+        "accuracy": 0.751596877217885,
+        "roc_auc": 0.8470704487328528,
+        "f1_score": 0.6323529411764706,
+        "precision": 0.5207612456747405,
+        "recall": 0.8048128342245989
+    },
+    "feature_names": [
+        "Dependents",
+        "Tenure Months",
+        "Paperless Billing",
+        "Monthly Charges",
+        "Total Charges",
+        "Avg_Monthly_Charge",
+        "Internet Service_Fiber optic",
+        "Internet Service_No",
+        "Online Security_No internet service",
+        "Online Security_Yes",
+        "Online Backup_No internet service",
+        "Device Protection_No internet service",
+        "Tech Support_No internet service",
+        "Tech Support_Yes",
+        "Streaming TV_No internet service",
+        "Streaming Movies_No internet service",
+        "Contract_One year",
+        "Contract_Two year",
+        "Payment Method_Electronic check",
+        "Tenure_Group_5-6yr"
+    ],
+    "dataset_info": {
+        "total_samples": 7043,
+        "churn_rate": 0.2653698707936959,
+        "feature_count": 20
+    }
+}
