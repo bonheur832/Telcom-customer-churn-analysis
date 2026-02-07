@@ -210,6 +210,6 @@ Even a moderately precise model can generate substantial financial benefits when
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/Telcom-customer-churn-analysis.git
+git clone https://github.com/bonheur832/Telcom-customer-churn-analysis.git
 cd Telcom-customer-churn-analysis
 pip install -r requirements.txt
