@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e221dc86-f877-4bd1-bd20-26bf15a9c5d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/REPORT.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/best_churn_model.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/encoders.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/feature_columns.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/model_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/scaler.pkl" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770356986239</updated>
       <workItem from="1770356987310" duration="23841000" />
-      <workItem from="1770436938730" duration="11005000" />
+      <workItem from="1770436938730" duration="12778000" />
     </task>
     <servers />
   </component>

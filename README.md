@@ -68,4 +68,17 @@ Detailed explanations and visualizations are available in **REPORT.md**.
 ## How to Run the Project
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/telco-customer-churn-analysis.git
+   git clone https://github.com/bonheur832/telco-customer-churn-analysis.git
+2. Navigate to the project directory
+3. Run python main.py
+4. Open & Run 01_data_exploration.ipynb in Jupyter Notebook
+5. Open & Run 02_eda_visualization.ipynb in Jupyter Notebook
+6. Open & Run 03_predictive_modeling.ipynb in Jupyter Notebook
+7. Find the results in reports_2
+
+------
+Author
+
+Louis Bonheur
+
+Focus: Data Analysis, Machine Learning, Applied AI
