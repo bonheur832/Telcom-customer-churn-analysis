@@ -201,15 +201,3 @@ Even a moderately precise model can generate substantial financial benefits when
 
 ---
 
-## 11. How to Run the Project
-
-### Requirements
-- Python 3.8+
-- Git
-- Jupyter Notebook
-
-### Installation
-```bash
-git clone https://github.com/yourusername/Telcom-customer-churn-analysis.git
-cd Telcom-customer-churn-analysis
-pip install -r requirements.txt

@@ -66,9 +66,16 @@ Detailed explanations and visualizations are available in **REPORT.md**.
 ---
 
 ## How to Run the Project
+
+### Requirements
+- Python 3.8+
+- Git
+- Jupyter Notebook
 1. Clone the repository
    ```bash
    git clone https://github.com/bonheur832/telco-customer-churn-analysis.git
+   cd Telcom-customer-churn-analysis
+   pip install -r requirements.txt
 2. Navigate to the project directory
 3. Run python main.py
 4. Open & Run 01_data_exploration.ipynb in Jupyter Notebook
